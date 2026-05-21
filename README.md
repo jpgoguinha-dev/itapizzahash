@@ -1,2 +1,0 @@
-# itapizzahash
-Projeto teste inicial
