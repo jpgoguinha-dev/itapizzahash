@@ -1,6 +1,6 @@
 # 🍕 ItaPizzaJP — Landing Page
 
-Landing page de uma pizzaria fictícia desenvolvida como projeto de estudo.
+Landing page de uma pizzaria desenvolvida como projeto de estudo.
 
 ## 🔗 Deploy
 

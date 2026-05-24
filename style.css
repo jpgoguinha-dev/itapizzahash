@@ -80,7 +80,7 @@ section {
     background: var(--bg);  
     display: flex;
     align-items: center;
-    justify-content: space--between;
+    justify-content: space-between;
     padding: 1.5rem 7%;
     border-bottom: var(--border);
     position: fixed;
@@ -116,13 +116,13 @@ section {
     margin-left: 2rem;
 }
 
-.header .icons div ion-icon {
+.header .icons ion-icon {
     font-size: 2.5rem;
     color: #fff;
     cursor: pointer;
 }
 
-.header .icons div ion-ion: hover{
+.header .icons div ion-icon: hover{
     color: var(--main-color);
 }
 
@@ -142,7 +142,7 @@ section {
     border-bottom: var(--border);
 }
 
-.home: :before {
+.home::before {
 content: "";
 position: absolute;
 top: 0;
@@ -184,7 +184,7 @@ z-index: 1;
     flex: 1 1 45rem;
 }
 
-.about .row .image image{
+.about .row .image img {
     width: 100%;
 }
 
